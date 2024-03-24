@@ -7,14 +7,14 @@
 -	Overview: This project demonstrates how to set up and utilize Amazon EMR (Elastic MapReduce) for big data processing and analytics tasks.
 
 Included in the documentation File:
--	VPC_creation: The demonstration on creating an Amazon VPC.
+-	VPC creation: The demonstration on creating an Amazon VPC.
 -	Amazon Simple Storage Service_bucket_creation: Demonstration on creating an Amazon S3 bucket.
--	IAM_role_creation.txt: Transcript of the demonstration on creating an IAM role in AWS Management Console.
--	EMR_cluster_creation.txt: Transcript of the demonstration on creating an Amazon EMR on EC2 cluster.
--	EMR_studio_creation.txt: Transcript of the demonstration on creating an Amazon EMR Studio.
--	EMR_workspace_creation.txt: Transcript of the demonstration on creating an Amazon EMR workspace.
--	Spark_job_execution.txt: Transcript of the demonstration on running a Spark Job with Amazon EMR Studio Notebook.
--	transcript_resource_cleanup.txt: Transcript of the demonstration on cleaning up the resources.
+-	IAM role creation: Transcript of the demonstration on creating an IAM role in AWS Management Console.
+-	EMR cluster creation: Transcript of the demonstration on creating an Amazon EMR on EC2 cluster.
+-	EMR studio creation: Transcript of the demonstration on creating an Amazon EMR Studio.
+-	EMR workspace creation: Transcript of the demonstration on creating an Amazon EMR workspace.
+-	Spark job execution: Transcript of the demonstration on running a Spark Job with Amazon EMR Studio Notebook.
+-	transcript resource cleanup: Transcript of the demonstration on cleaning up the resources.
 
 [Documentation.pdf](https://drive.google.com/file/d/1zxrx1NdSQPI7zsVkzujVUDtXZfiq8G71/view?usp=drive_link): Detailed documentation of the entire Amazon EMR demonstration.
 
