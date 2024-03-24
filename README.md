@@ -2,7 +2,7 @@
 
 ![Amazon-EMR](https://github.com/kevinndungu-source/EMR_Demonstration_Resources/assets/114335263/2bd46564-6d9a-4e65-b242-39e428e2f70f)
 
-# Project Descriptions
+## Project Descriptions
 1. Amazon EMR Demonstration
 -	Overview: This project demonstrates how to set up and utilize Amazon EMR (Elastic MapReduce) for big data processing and analytics tasks.
 -	Included in the documentation File:
