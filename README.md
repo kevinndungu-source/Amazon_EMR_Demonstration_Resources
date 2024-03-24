@@ -5,7 +5,8 @@
 ## Project Descriptions
 1. Amazon EMR Demonstration
 -	Overview: This project demonstrates how to set up and utilize Amazon EMR (Elastic MapReduce) for big data processing and analytics tasks.
--	Included in the documentation File:
+
+Included in the documentation File:
 -	VPC_creation: The demonstration on creating an Amazon VPC.
 -	Amazon Simple Storage Service_bucket_creation: Demonstration on creating an Amazon S3 bucket.
 -	IAM_role_creation.txt: Transcript of the demonstration on creating an IAM role in AWS Management Console.
