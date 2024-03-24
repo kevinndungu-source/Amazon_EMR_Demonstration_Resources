@@ -1,12 +1,13 @@
-# EMR_Demonstration_Resources
+# Amazon Elastic Map Reduce (EMR) Demonstration
 Reposits the resources used in the EMR on EC2 Cluster project.
 
 ![Amazon-EMR](https://github.com/kevinndungu-source/EMR_Demonstration_Resources/assets/114335263/3633eded-d2b0-4a21-884a-5ef71a42cb96)
 
 
 ## Project Descriptions
+
 1. Amazon EMR Demonstration
--	Overview: This project demonstrates how to set up and utilize Amazon EMR (Elastic MapReduce) for big data processing and analytics tasks.
+-	**Overview:** This project demonstrates how to set up and utilize Amazon EMR (Elastic MapReduce) for big data processing and analytics tasks.
 
 Included in the documentation File:
 -	**VPC creation**: The demonstration on creating an Amazon VPC.
