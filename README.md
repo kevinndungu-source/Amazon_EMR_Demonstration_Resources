@@ -1,4 +1,4 @@
-# Amazon ELastic Map Reduce (EMR) Demonstration Resources
+# Amazon Elastic Map Reduce (EMR) Demonstration Resources
 
 ![Amazon-EMR](https://github.com/kevinndungu-source/EMR_Demonstration_Resources/assets/114335263/2bd46564-6d9a-4e65-b242-39e428e2f70f)
 
