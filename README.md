@@ -14,7 +14,7 @@ Included in the documentation File:
 -	EMR studio creation: Transcript of the demonstration on creating an Amazon EMR Studio.
 -	EMR workspace creation: Transcript of the demonstration on creating an Amazon EMR workspace.
 -	Spark job execution: Transcript of the demonstration on running a Spark Job with Amazon EMR Studio Notebook.
--	transcript resource cleanup: Transcript of the demonstration on cleaning up the resources.
+-	Resource cleanup: Transcript of the demonstration on cleaning up the resources.
 
 [Documentation.pdf](https://drive.google.com/file/d/1zxrx1NdSQPI7zsVkzujVUDtXZfiq8G71/view?usp=drive_link): Detailed documentation of the entire Amazon EMR demonstration.
 
