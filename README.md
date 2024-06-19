@@ -7,7 +7,7 @@ Reposits the resources used in the EMR on EC2 Cluster project.
 
 ## Project Descriptions
 
-1. Amazon EMR Demonstration
+### 1. Amazon EMR Demonstration
 -	**Overview:** This project demonstrates how to set up and utilize Amazon EMR (Elastic MapReduce) for big data processing and analytics tasks.
 
 Included in the documentation File:
@@ -22,7 +22,7 @@ Included in the documentation File:
 
 [Documentation.pdf](https://drive.google.com/file/d/1zxrx1NdSQPI7zsVkzujVUDtXZfiq8G71/view?usp=drive_link): Detailed documentation of the entire Amazon EMR demonstration.
 
-2. Dataset and Code Files
+### 2. Dataset and Code Files
 -	Description: This repository contains the dataset and code files used in the Amazon EMR demonstration project as listed below:
 -	**dataset_en_dev.json**: Dataset file used in the demonstration.
 -	**reviews.py**: Python script used in the demonstration.
