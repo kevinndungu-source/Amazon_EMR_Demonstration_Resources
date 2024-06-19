@@ -3,6 +3,7 @@ Reposits the resources used in the EMR on EC2 Cluster project.
 
 ![Amazon-EMR](https://github.com/kevinndungu-source/EMR_Demonstration_Resources/assets/114335263/3633eded-d2b0-4a21-884a-5ef71a42cb96)
 
+---
 
 ## Project Descriptions
 
@@ -27,11 +28,11 @@ Included in the documentation File:
 -	**reviews.py**: Python script used in the demonstration.
 -	**reviews.ipynb**: Jupyter notebook used in the demonstration.
 
+---
+
 ## Usage
 1.	Clone this repository to your local machine.
 2.	Explore the project folders and files to understand each demonstration.
 3.	Follow the instructions provided in the transcripts and documentation to replicate the demonstrations in your own AWS environment.
 
-## License
-This project is licensed under the MIT License.
-Feel free to contribute, report issues, or suggest improvements by opening an issue or pull request.
+---
